@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "MeshNetBy"
+site_name = ""
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -34,7 +34,7 @@ site_url = "https://mesh-net.by/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+With love from Minsk Community ❤️
 """
 repo_url = "https://github.com/mesh-net-by/web"
 repo_name = "mesh-net-by/web"
