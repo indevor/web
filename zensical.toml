@@ -49,7 +49,7 @@ edit_uri = "edit/main/docs/"
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-   { "О нас" = "index.md" },
+   { "Главная" = "index.md" },
    { "Руководство" = [    
         "guides/start.md",
         "guides/channels.md"
