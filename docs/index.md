@@ -19,7 +19,7 @@
 
 Приходите пообщаться с нами! Мы активны в Telegram и всегда рады новым участникам:
 
-- **Meshtastic Minsk [868 MHz]** [Telegram](https://t.me//meshtastic_minsk_868) переходите по ссылке и присоединяйтесь к обсуждению.  
+- **Meshtastic Minsk [868 MHz]** [Telegram](https://t.me/meshtastic_minsk_868) переходите по ссылке и присоединяйтесь к обсуждению.  
 Используйте QR-код ниже, чтобы быстро найти наш Telegram-канал и присоединиться к сообществу!
 
     ![Логотип Telegram MeshNetBY](static/tg-logo.jpg){ width="300" } ![QR код Telegram MeshNetBY](static/qr/telegram-whiteblack.png){ width="300" }

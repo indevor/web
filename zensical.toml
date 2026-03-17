@@ -55,7 +55,7 @@ nav = [
         "guides/channels.md"
     ]},
    { "Вопрос Ответ" = "faq.md" },
-   { "Telegram группа" = "https://t.me//meshtastic_minsk_868"}
+   { "Telegram группа" = "https://t.me/meshtastic_minsk_868"}
    ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
