@@ -22,5 +22,5 @@
 - **Meshtastic Minsk [868 MHz]** [Telegram](https://t.me/meshtastic_minsk_868) переходите по ссылке и присоединяйтесь к обсуждению.  
 Используйте QR-код ниже, чтобы быстро найти наш Telegram-канал и присоединиться к сообществу!
 
-    ![Логотип Telegram MeshNetBY](static/tg-logo.jpg){ width="300" } ![QR код Telegram MeshNetBY](static/qr/telegram-whiteblack.png){ width="300" }
+    ![Логотип Telegram MeshNetBY](static/tg-logo.webp){ width="300" } ![QR код Telegram MeshNetBY](static/qr/telegram-whiteblack.webp){ width="300" }
 
